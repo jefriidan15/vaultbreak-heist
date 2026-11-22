@@ -1,8 +1,8 @@
 # Vaultbreak — Midnight Heist
 
-[![Competition](https://img.shields.io/badge/make.fun-best--heist--game--20261122--0559-blue)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![Rank](https://img.shields.io/badge/rank-awaiting%20judgement-lightgrey)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![Reward](https://img.shields.io/badge/reward-%2450%20shared%20top%2010-gold)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/jefriidan15/vaultbreak-heist/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/jefriidan15/vaultbreak-heist/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 A complete, original top-down heist game that plays offline in a desktop browser. One vault, three guards, two cameras, one diamond — and an alarm meter that decides whether you walk out rich or get caught.
 
