@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vaultbreak — Midnight Heist</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #0b0d12; height: 100%; overflow: hidden; }
+  body { display: flex; align-items: center; justify-content: center; font-family: sans-serif; }
+  #wrap { text-align: center; }
+  canvas { display: block; background: #0b0d12; height: calc(100vh - 34px); max-width: 100vw; }
+  #hint { color: #8b93a7; font-size: 13px; margin-top: 8px; }
+  #hint b { color: #e8ecf4; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="hint"><b>Vaultbreak — Midnight Heist.</b> WASD / arrows or click to move · E smoke · Q decoy · P pause · R restart · M sound. Grab the diamond, reach the EXIT.</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
